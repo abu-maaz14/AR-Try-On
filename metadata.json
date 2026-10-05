@@ -1,0 +1,6 @@
+{
+  "name": "Innovify XR — Custom AR Try-On for Websites & Apps",
+  "description": "Custom AR Try-On technology that lets your customers place, visualize, and interact with products in their real-world space directly from your website or mobile app.",
+  "requestFramePermissions": ["camera"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
